@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tidak</folder>
+	<filename>tim_tidak_cropped_7.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Tidak\tim_tidak_cropped_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tidak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>239</ymin>
+			<xmax>220</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

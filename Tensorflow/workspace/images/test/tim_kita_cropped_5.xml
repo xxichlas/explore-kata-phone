@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kita</folder>
+	<filename>tim_kita_cropped_5.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Kita\tim_kita_cropped_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kita</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>223</ymin>
+			<xmax>170</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

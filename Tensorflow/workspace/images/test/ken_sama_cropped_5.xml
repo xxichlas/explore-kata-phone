@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sama</folder>
+	<filename>ken_sama_cropped_5.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Sama\ken_sama_cropped_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>245</ymin>
+			<xmax>372</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
