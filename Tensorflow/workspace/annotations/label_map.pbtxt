@@ -1,0 +1,40 @@
+item { 
+	name:'aku'
+	id:1
+}
+item { 
+	name:'bicara'
+	id:2
+}
+item { 
+	name:'bisa'
+	id:3
+}
+item { 
+	name:'hai'
+	id:4
+}
+item { 
+	name:'kamu'
+	id:5
+}
+item { 
+	name:'kita'
+	id:6
+}
+item { 
+	name:'pagi'
+	id:7
+}
+item { 
+	name:'sama'
+	id:8
+}
+item { 
+	name:'tidak'
+	id:9
+}
+item { 
+	name:'ya'
+	id:10
+}
